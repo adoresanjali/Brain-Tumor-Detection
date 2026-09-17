@@ -122,5 +122,5 @@ Double-click the **`run.bat`** file in the root directory. It will automatically
 ---
 
 ## 👤 Author
-**Ashu** — Early Brain Tumor Detections in Human Brain  
-Built with Sharp Minds using Python, ONNX, React, and FastAPI.
+**Anjali** — Early Brain Tumor Detections in Human Brain  
+Built using Python, ONNX, React, and FastAPI.
